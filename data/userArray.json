@@ -1,0 +1,20 @@
+[
+    {
+        "handle": "selene_nr",
+        "name": "Lara Diaz",
+        "country": "AR",
+        "level": "Pro"
+    },
+    {
+        "handle": "sanchez_ata",
+        "name": "Ata Sanchez",
+        "country": "AR",
+        "level": "Pro"
+    },
+    {
+        "handle": "carobsts",
+        "name": "Caro Bustos",
+        "country": "AR",
+        "level": "Pro"
+    }
+]
